@@ -8,7 +8,7 @@ A non shorty introduction about productive git. How to use git for a better and 
 - Pull | Push
 - Commit and amend
 - Merge vs Rebase
-- Git flokkw
+- Git Flow
 
 ## What is git?
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
